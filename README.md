@@ -5,6 +5,7 @@
 > **Portfolio showcase.** MealPoint is a B2B product of CukruDev Solutions, so the source code is private.
 > This repository explains the design, the money model and my contribution.
 
+🧪 **Staging:** [mealpoint.cukrudev.com](https://mealpoint.cukrudev.com/login) (login required; demo account on request)  
 **Company:** CukruDev Solutions · **Type:** B2B SaaS for universities and foundations  
 **Role:** Full Stack Developer in a 3-person team · **Period:** September – October 2026
 
